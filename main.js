@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
-  github: 'jakeliny2',
-  youtube: 'jakelinygracielly',
-  facebook: 'maykbrito',
-  instagram: 'jakeliny.gracielly',
-  twitter: 'jakelinytec'
+  github: 'manuel-chan',
+  youtube: '',
+  facebook: '',
+  instagram: '',
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
@@ -31,3 +31,4 @@ function getGitHubProfilesInfos() {
 }
 
 getGitHubProfilesInfos()
+
