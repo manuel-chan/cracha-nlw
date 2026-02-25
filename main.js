@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
   github: 'manuel-chan',
-  youtube: '',
-  facebook: '',
-  instagram: '',
-  twitter: ''
+  youtube: 'glaucopv',
+  facebook: 'glauco.vieira.92',
+  instagram: 'glauco_02',
+  twitter: 'glauco_02'
 }
 
 function changeSocialMediaLinks() {
@@ -31,4 +31,5 @@ function getGitHubProfilesInfos() {
 }
 
 getGitHubProfilesInfos()
+
 
